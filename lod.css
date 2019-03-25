@@ -1,0 +1,29 @@
+ :root{
+        --main-Color: #ef4130;
+        --secondary-Color: #b6b7ba;
+        --faded-Color: #000000;
+        --font-Color: #444444;
+        --font-family: "Raleway",sans-serif;
+    }
+
+div {
+        font-family: "Raleway",sans-serif;
+        font-weight: lighter;
+        font-size: small;
+        color: #444444;
+    }
+div.sig-div-name{
+        font-size: medium;
+        font-weight: bold;
+        color: #ef4130;
+    }
+.sig-span-name{
+        font-size:large;
+        font-weight:bold;
+    }
+div.sig-div-position{
+        border-bottom: 2px solid #ef4130;
+    }
+a:link, a:visited,a:active {
+        color: #ef4130;
+    }
