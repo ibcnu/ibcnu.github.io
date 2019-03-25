@@ -47,6 +47,9 @@ div.sig-div-position{
     margin: 0 0 15px 0;
     border-bottom: 2px solid #cf3338;
 }
+div.logo{
+    padding-top:1em;    
+}
 div.sig-div-address{
     margin-top: 20px;
 }
