@@ -103,9 +103,9 @@ a:hover {
         margin: 0 0 0 0;
     }
     div.sig-div-container{
-    width: 800px;
+        width: 800px;
     }
-    div.div-sig-user{
-        padding: 0 0 0px 0;
-    }
+//    div.div-sig-user{
+//        padding: 0 0 0px 0;
+//    }
 }
