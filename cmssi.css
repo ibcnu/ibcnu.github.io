@@ -40,7 +40,7 @@ div {
 
 
 div.sig-div-container{
-    width: 100%;
+    width: 800px;
     font-family: 'Libre Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
     font-size: small;
@@ -103,7 +103,7 @@ a:hover {
         margin: 0 0 0 0;
     }
     div.sig-div-container{
-        width: 100%;
+    width: 800px;
     }
     div.div-sig-user{
         padding: 0 0 0px 0;
