@@ -1,0 +1,102 @@
+:root{
+    --main-Color: #cf3338;
+    --secondary-Color: #ffffff;
+    --faded-Color: #54565a;
+    --font-Color: #54565a;
+    --font-family: 'Libre Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img.logo{
+    width: 200px;
+    margin: 0 0 0px 0;
+}
+
+img.social{
+    width: 18px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 0px;
+    font-family: 'Libre Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    color: #54565a;
+}
+
+div.sig-div-container{
+    width: 400px;
+    font-family: 'Libre Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    color: #54565a;
+}
+div.sig-div-name{
+    font-size: medium;
+    font-weight: bold;
+    color: #cf3338;
+}
+.sig-span-name{
+    font-size:large;
+    font-weight:bold;
+}
+div.sig-div-position{
+    margin: 0 0 15px 0;
+    border-bottom: 2px solid #cf3338;
+}
+div.sig-div-address{
+    margin-top: 20px;
+}
+div.div-sig-user{
+    padding: 20px 0 20px 0;
+}
+div.sig-div-social{
+    float: right;
+    text-align: right;
+}
+div.col-1 {
+    width: 100%;
+}
+div.col-2{
+    width: 47.5%;
+    margin: 0 5% 0 0;
+    float: left;
+}
+div.col-2-last{
+    margin: 0 0 0 0;
+}
+
+
+a:link{
+    color: #cf3338;
+    text-decoration: none;
+}
+a:visited{
+    color: #cf3338;
+    text-decoration: none;
+}
+a:active{
+    color: #cf3338;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+
+@media screen and (max-width: 600px){
+    div.col-2{
+        width: 100%;
+        margin: 0 0 0 0;
+    }
+    div.sig-div-container{
+        width: 250px;
+    }
+    div.div-sig-user{
+        padding: 0 0 0px 0;
+    }
+}
