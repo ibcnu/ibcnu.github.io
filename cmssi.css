@@ -1,4 +1,5 @@
-:root{
+
+    :root{
     --main-Color: #cf3338;
     --secondary-Color: #ffffff;
     --faded-Color: #54565a;
@@ -15,11 +16,20 @@ img.social{
     width: 18px;
 }
 
+div.col-2{
+    width: 47.5%;
+    margin: 0 5% 0 0;
+    float: left;
+}
+div.col-2-last{
+    margin: 0 0 0 0;
+}
+
 table{
     width: 100%;
     border-collapse: collapse;
 }
-th, td {
+div {
     padding: 0px;
     font-family: 'Libre Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
@@ -30,7 +40,7 @@ th, td {
 
 
 div.sig-div-container{
-    width: 400px;
+    width: 600px;
     font-family: 'Libre Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
     font-size: small;
@@ -64,14 +74,6 @@ div.sig-div-social{
 }
 div.col-1 {
     width: 100%;
-}
-div.col-2{
-    width: 47.5%;
-    margin: 0 5% 0 0;
-    float: left;
-}
-div.col-2-last{
-    margin: 0 0 0 0;
 }
 
 
