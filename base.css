@@ -7,6 +7,11 @@ div {
     padding: 0px;
 }
 
+div.col2{
+    float: left;
+    width: auto;
+}
+
 div.sig-div-container{
     float: left;
     width: 350px;
