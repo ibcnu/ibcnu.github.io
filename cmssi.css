@@ -7,13 +7,7 @@
     --font-family: 'Libre Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-img.logo{
-    width: 200px;
-    margin: 0px 0 0px 0;
-}
-
 div {
-    padding: 0px;
     font-family: 'Libre Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
     font-size: small;
@@ -21,7 +15,6 @@ div {
 }
 
 div.sig-div-container{
-    width: 350px;
     font-family: 'Libre Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
     font-size: small;
@@ -29,39 +22,12 @@ div.sig-div-container{
 }
 
 div.sig-div-position{
-    margin: 0 0 15px 0;
     border-bottom: 2px solid #cf3338;
-}
-div.sig-div-user{
-    margin: 20px 0 20px 0;
 }
 
 div.sig-div-name{
-    font-size: medium;
-    font-weight: bold;
     color: #cf3338;
 }
-.sig-span-name{
-    font-size:large;
-    font-weight:bold;
-}
-div.sig-div-logo{
-    margin-top: 2em;
-}
-div.sig-div-address{
-    margin-top: .75em;
-}
-div.sig-div-social{
-    float: right;
-    text-align: right;
-}
-
-
 a:link, a:visited, a:active{
     color: #cf3338;
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
-    font-weight: bolder;
 }
