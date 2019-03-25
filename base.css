@@ -8,6 +8,7 @@ div {
 }
 
 div.sig-div-container{
+    float: left;
     width: 350px;
 }
 
