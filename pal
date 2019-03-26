@@ -1,0 +1,28 @@
+
+    :root{
+        --main-Color: #3e3e40;
+        --secondary-Color: #a3a5a7;
+        --faded-Color: #a3a5a7;
+        --font-Color: #3e3e40;
+        --font-family: "ABeeZee",sans-serif;
+    }
+
+    div {
+        font-family: "ABeeZee",sans-serif;
+        font-weight: lighter;
+        font-size: small;
+        color: #3e3e40;
+    }
+    div.sig-div-name{
+        font-size: xx-large;
+        font-weight: bold;
+        color: #3e3e40;
+    }
+    div.sig-div-position{
+        border-bottom: 2px solid #3e3e40;
+    }
+
+
+    a:link, a:visited, a:active{
+        color: #3e3e40;
+    }
