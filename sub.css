@@ -1,0 +1,34 @@
+
+    :root{
+        --main-Color: #a70e13;
+        --secondary-Color: #282e32;
+        --faded-Color: #282e32;
+        --font-Color: #282e32;
+        --font-family: "Montserrat",sans-serif;
+    }
+    div {
+        font-family: "Noto Sans",sans-serif;
+        font-weight: lighter;
+        font-size: small;
+        color: #282e32;
+    }
+
+    div.sig-div-container{
+        width: 420px;
+    }
+    div.sig-div-name{
+        font-size: xx-large;
+        font-weight: bold;
+        color: #282e32;
+    }
+    .sig-span-name{
+        font-size:large;
+        font-weight:bold;
+    }
+    div.sig-div-position{
+        margin: 0 0 15px 0;
+        border-bottom: 2px solid #a70e13;
+    }
+    a:link, a:visited, a:active{
+        color: #a70e13;
+    }
