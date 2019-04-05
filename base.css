@@ -71,3 +71,7 @@ td div span.sig-span-address{
 td div span.sig-span-name{
     font-size: 12pt;   
 }
+
+td span.sig-span-social{
+    float:right;   
+}
