@@ -25,6 +25,10 @@ div.sig-div-container{
     border-bottom: 2px solid #cf3338;
 }
 
+ td.border {
+  border-bottom: 2px solid #cf3338;
+}
+
 div.sig-div-name{
     color: #cf3338;
 }
