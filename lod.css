@@ -24,6 +24,10 @@ div.sig-div-name{
 div.sig-div-position{
         border-bottom: 2px solid #ef4130;
     }
+
+ td.border {
+  border-bottom: 2px solid #ef4130;
+}
 a:link, a:visited,a:active {
         color: #ef4130;
     }
