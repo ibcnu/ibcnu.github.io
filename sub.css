@@ -29,6 +29,9 @@
         margin: 0 0 15px 0;
         border-bottom: 2px solid #a70e13;
     }
+ td.border {
+  border-bottom: 2px solid #a70e13;
+}
     a:link, a:visited, a:active{
         color: #a70e13;
     }
