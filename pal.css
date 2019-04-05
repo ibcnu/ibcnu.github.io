@@ -31,6 +31,9 @@
         border-bottom: 2px solid #3e3e40;
     }
 
+ td.border {
+  border-bottom: 2px solid #3e3e40;
+}
 
     a:link, a:visited, a:active{
         color: #3e3e40;
